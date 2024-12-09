@@ -27,25 +27,25 @@ const products: Product[] = [
   {
     id: "1",
     name: "Trenton modular sofa_3",
-    price: 25000.00,
+    price: 25,000.00,
     image: mainsofa,
   },
   {
     id: "2",
     name: "Granite dining table with dining chair",
-    price: 25000.00,
+    price: 25,000.00,
     image: maindyning,
   },
   {
     id: "3",
     name: "Outdoor bar table and stool",
-    price: 25000.00,
+    price: 25,000.00,
     image: mainchairs,
   },
   {
     id: "4",
     name: "Plain console with teak mirror",
-    price: 25000.00,
+    price: 25,000.00,
     image: maintable,
   },
 ]
